@@ -160,15 +160,15 @@ You can use these files to test upload and download functionality immediately af
 ## 📸 Screenshots
 
 ### Application Interface
-![FTP Client GUI](../Ref%20Images/Screenshot%202026-01-18%20115122.png)
+![FTP Client GUI](Ref%20Images/Screenshot%202026-01-18%20115122.png)
 *Main FTP Client interface showing connection settings and file lists*
 
 ### File Transfer in Progress
-![File Transfer](../Ref%20Images/Screenshot%202026-01-18%20115149.png)
+![File Transfer](Ref%20Images/Screenshot%202026-01-18%20115149.png)
 *File upload/download with progress bar*
 
 ### Successful Connection
-![Connected View](../Ref%20Images/Screenshot%202026-01-18%20115159.png)
+![Connected View](Ref%20Images/Screenshot%202026-01-18%20115159.png)
 *Connected state showing remote and local files*
 
 ## 🔍 Technical Details
